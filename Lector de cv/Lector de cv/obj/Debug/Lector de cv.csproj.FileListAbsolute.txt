@@ -1,0 +1,44 @@
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Lector de cv.exe.config
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Lector de cv.exe
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Lector de cv.pdb
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector de cv.csprojAssemblyReference.cache
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector_de_cv.Form1.resources
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector_de_cv.Properties.Resources.resources
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector de cv.csproj.GenerateResource.cache
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector de cv.csproj.CoreCompileInputs.cache
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector de cv.exe
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector de cv.pdb
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Interop.AcroPDFLib.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Interop.AcroPDFLib.dll
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector de cv.csproj.ResolveComReference.cache
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector_de_cv.Form2.resources
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector_de_cv.Form3.resources
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\BouncyCastle.Crypto.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Common.Logging.Core.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Common.Logging.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.barcodes.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.forms.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.io.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.kernel.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.layout.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.pdfa.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.sign.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.styledxmlparser.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.svg.dll
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\BouncyCastle.Crypto.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Common.Logging.pdb
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Common.Logging.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Common.Logging.Core.pdb
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\Common.Logging.Core.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.barcodes.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.forms.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.io.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.kernel.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.layout.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.pdfa.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.sign.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.styledxmlparser.xml
+D:\proyectos c#\Lector de cv\Lector de cv\bin\Debug\itext.svg.xml
+D:\proyectos c#\Lector de cv\Lector de cv\obj\Debug\Lector de cv.csproj.CopyComplete
